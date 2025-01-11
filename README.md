@@ -1,0 +1,1 @@
+This repository demonstrates a bug where trace statements in ActionScript 3 may intermittently fail to produce output in the output panel.  The bug is particularly noticeable during complex or asynchronous actions. The solution demonstrates a more robust approach to logging that increases visibility during debugging.
